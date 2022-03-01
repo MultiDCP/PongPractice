@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869220248357",
+    "project_id": "practice-photon-pong",
+    "storage_bucket": "practice-photon-pong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869220248357:android:e82318b7caea3f0d8fc8cc",
+        "android_client_info": {
+          "package_name": "com.practice.photonPong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869220248357-n61d04vblestb24rph9nd1rokef387sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXhiSsN7Sn0-ZANLcPv0gwnbkKXbHunII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869220248357-n61d04vblestb24rph9nd1rokef387sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
