@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "869220248357-3607euq29ah0bf2rmk5o3kkng9ajtg8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practice.photonPong",
+            "certificate_hash": "f615a5bd8e1c4cdf85bddcb84471bcbc47f815f9"
+          }
+        },
+        {
           "client_id": "869220248357-n61d04vblestb24rph9nd1rokef387sj.apps.googleusercontent.com",
           "client_type": 3
         }
